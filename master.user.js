@@ -2,14 +2,15 @@
 // @name       AdRemover
 // @author     SlipSerum
 // @version    1.0
+// @homepage http://github.com/SlipSerum
 // @description  Enjoy the web without ads!
 // @match      http://*/*
 // @match      https://*/*
 // @exclude    https://www.google.*/*tbm=isch*
-// @downloadURL 
+// @downloadURL https://github.com/SlipSerum/AdBlock/raw/master/master.user.js
 // @copyright  2016, jHeight
 // @namespace https://github.com/SlipSerum/AdBlock
-// @updateURL 
+// @updateURL https://github.com/SlipSerum/AdBlock/raw/master/master.user.js
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_registerMenuCommand
